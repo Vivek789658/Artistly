@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "category": ["Singer", "Vocalist"],
+    "priceRange": "₹25,000-50,000",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Professional classical and Bollywood vocalist with 8+ years experience. Specializes in wedding ceremonies, corporate events, and cultural programs.",
+    "languages": ["Hindi", "English", "Marathi", "Gujarati"],
+    "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.9,
+    "totalBookings": 127
+  },
+  {
+    "id": 2,
+    "name": "Arjun Mehta",
+    "category": ["DJ", "Music Producer"],
+    "priceRange": "₹15,000-40,000",
+    "location": "Bangalore, Karnataka",
+    "bio": "Electronic music producer and DJ specializing in Bollywood remixes, EDM, and fusion beats. Perfect for weddings, parties, and corporate events.",
+    "languages": ["Hindi", "English", "Kannada"],
+    "image": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.7,
+    "totalBookings": 89
+  },
+  {
+    "id": 3,
+    "name": "Kavya Nair",
+    "category": ["Dancer", "Choreographer"],
+    "priceRange": "₹20,000-45,000",
+    "location": "Chennai, Tamil Nadu",
+    "bio": "Classical Bharatanatyam and contemporary dancer with expertise in Bollywood, Kuchipudi, and modern dance forms. Available for cultural events and weddings.",
+    "languages": ["Tamil", "Hindi", "English", "Malayalam"],
+    "image": "https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.8,
+    "totalBookings": 94
+  },
+  {
+    "id": 4,
+    "name": "Rajesh Kumar",
+    "category": ["Speaker", "Motivational Coach"],
+    "priceRange": "₹40,000-1,00,000",
+    "location": "Delhi, NCR",
+    "bio": "Motivational speaker and business coach with 12+ years of corporate training experience. Specializes in leadership development and team building workshops.",
+    "languages": ["Hindi", "English", "Punjabi"],
+    "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.9,
+    "totalBookings": 156
+  },
+  {
+    "id": 5,
+    "name": "Ananya Singh",
+    "category": ["Singer", "Guitarist"],
+    "priceRange": "₹20,000-35,000",
+    "location": "Pune, Maharashtra",
+    "bio": "Acoustic guitarist and singer-songwriter specializing in Hindi, English, and regional folk music. Perfect for intimate venues and outdoor events.",
+    "languages": ["Hindi", "English", "Marathi"],
+    "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.6,
+    "totalBookings": 73
+  },
+  {
+    "id": 6,
+    "name": "Vikram Reddy",
+    "category": ["DJ", "Sound Engineer"],
+    "priceRange": "₹30,000-60,000",
+    "location": "Hyderabad, Telangana",
+    "bio": "Professional DJ and sound engineer with expertise in weddings, corporate events, and live music production. Specializes in Telugu and Bollywood music.",
+    "languages": ["Telugu", "Hindi", "English"],
+    "image": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.8,
+    "totalBookings": 112
+  },
+  {
+    "id": 7,
+    "name": "Meera Joshi",
+    "category": ["Dancer", "Performance Artist"],
+    "priceRange": "₹25,000-50,000",
+    "location": "Jaipur, Rajasthan",
+    "bio": "Professional Kathak and folk dancer with international performance experience. Specializes in Rajasthani folk dances and classical Indian dance forms.",
+    "languages": ["Hindi", "English", "Rajasthani"],
+    "image": "https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.9,
+    "totalBookings": 88
+  },
+  {
+    "id": 8,
+    "name": "Suresh Iyer",
+    "category": ["Speaker", "Life Coach"],
+    "priceRange": "₹35,000-75,000",
+    "location": "Kochi, Kerala",
+    "bio": "Life coach and wellness speaker focusing on mindfulness, personal development, and work-life balance. Conducts workshops in both English and regional languages.",
+    "languages": ["Malayalam", "Hindi", "English", "Tamil"],
+    "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.7,
+    "totalBookings": 134
+  },
+  {
+    "id": 9,
+    "name": "Ravi Gupta",
+    "category": ["Musician", "Tabla Player"],
+    "priceRange": "₹18,000-35,000",
+    "location": "Varanasi, Uttar Pradesh",
+    "bio": "Classical tabla player and percussionist with 15+ years of experience in Indian classical music. Available for classical concerts, fusion performances, and cultural events.",
+    "languages": ["Hindi", "English"],
+    "image": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.8,
+    "totalBookings": 67
+  },
+  {
+    "id": 10,
+    "name": "Deepika Agarwal",
+    "category": ["Singer", "Classical Vocalist"],
+    "priceRange": "₹30,000-60,000",
+    "location": "Kolkata, West Bengal",
+    "bio": "Hindustani classical vocalist trained in Khayal and Thumri. Also performs devotional music and Bengali songs for cultural programs and religious ceremonies.",
+    "languages": ["Bengali", "Hindi", "English"],
+    "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.9,
+    "totalBookings": 103
+  }
+]

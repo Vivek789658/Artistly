@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Shreya Patel",
+    "category": ["Singer", "Performer"],
+    "city": "Ahmedabad, Gujarat",
+    "feeRange": "₹15,000-30,000",
+    "submittedAt": "2025-01-15T10:30:00Z",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "category": ["DJ", "Music Producer"],
+    "city": "Gurgaon, Haryana",
+    "feeRange": "₹20,000-40,000",
+    "submittedAt": "2025-01-14T14:20:00Z",
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "name": "Aditi Rao",
+    "category": ["Dancer", "Choreographer"],
+    "city": "Indore, Madhya Pradesh",
+    "feeRange": "₹25,000-45,000",
+    "submittedAt": "2025-01-13T09:15:00Z",
+    "status": "review"
+  },
+  {
+    "id": 4,
+    "name": "Karan Malhotra",
+    "category": ["Speaker", "Consultant"],
+    "city": "Chandigarh, Punjab",
+    "feeRange": "₹40,000-75,000",
+    "submittedAt": "2025-01-12T16:45:00Z",
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "name": "Neha Kapoor",
+    "category": ["DJ", "Sound Engineer"],
+    "city": "Noida, Uttar Pradesh",
+    "feeRange": "₹30,000-50,000",
+    "submittedAt": "2025-01-11T11:30:00Z",
+    "status": "pending"
+  },
+  {
+    "id": 6,
+    "name": "Amit Verma",
+    "category": ["Musician", "Guitarist"],
+    "city": "Lucknow, Uttar Pradesh",
+    "feeRange": "₹18,000-35,000",
+    "submittedAt": "2025-01-10T13:15:00Z",
+    "status": "review"
+  },
+  {
+    "id": 7,
+    "name": "Pooja Desai",
+    "category": ["Singer", "Classical Vocalist"],
+    "city": "Surat, Gujarat",
+    "feeRange": "₹22,000-40,000",
+    "submittedAt": "2025-01-09T16:30:00Z",
+    "status": "approved"
+  }
+]
